@@ -16,3 +16,16 @@ Once an item marked as DONE, save the current date to be able to show simple sta
 ...
 ```
 Store the TODO items on disk, so the user can list the saved items at any moment. Use any persistent storage you want (JSON, CSV, Database, etc)
+
+
+# How to run CLI
+
+* activate your environment, then install all requirments
+
+`pip install -r requirements.txt`
+
+* this command will show all commands
+
+```bash
+python3 -m task_2 --help 
+```
