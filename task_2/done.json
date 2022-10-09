@@ -1,12 +1,6 @@
 {
-    "tasks":
-        {
-            "task":["date","data2"]
-        },
-    "dates":
-        {
-            "date":"1",
-            "date1":"2",
-            "date2":"3"
-        }
+    "tasks": {
+    },
+    "done": {
+    }
 }
